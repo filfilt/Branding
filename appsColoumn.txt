@@ -1,0 +1,8 @@
+employees
+FullName
+JobTitle           sigleLine of text
+ShortDescription   multiLine of text & plaintext
+Picture            sigleLine of text
+Email              sigleLine of text
+Phone              sigleLine of text
+OfficeNumber       sigleLine of text
